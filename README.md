@@ -38,7 +38,7 @@ docker compose down
 
 ## 動作画面
 
-![reenshots/main.png
+screenshots/main.png
 
 ## 生成AIの利用
 企画、技術選定、Flaskアプリ、危険度計算、Docker関連ファイル、UI、README、テストの作成に生成AIを利用しました。
