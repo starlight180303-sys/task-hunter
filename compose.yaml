@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    ports: ["5000:5000"]
+    environment:
+      SECRET_KEY: "change-this-for-production"
+      DATABASE_PATH: "/data/tasks.db"
+    volumes: ["task_data:/data"]
+    restart: unless-stopped
+volumes:
+  task_data:
