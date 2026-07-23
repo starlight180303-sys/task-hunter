@@ -37,7 +37,8 @@ docker compose down
 4. 完了したら「討伐完了」を押します。
 
 ## 動作画面
-画面を撮影して `screenshots/main.png` を追加し、ここに掲載してください。
+
+![reenshots/main.png
 
 ## 生成AIの利用
 企画、技術選定、Flaskアプリ、危険度計算、Docker関連ファイル、UI、README、テストの作成に生成AIを利用しました。
