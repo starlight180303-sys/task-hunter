@@ -18,7 +18,7 @@ Python 3.12 / Flask / SQLite / HTML / CSS / JavaScript / Gunicorn / Docker Compo
 
 ## 起動方法
 ```bash
-git clone https://github.com/YOUR_NAME/task-hunter.git
+git clone https://github.com/starlight180303-sys/task-hunter.git
 cd task-hunter
 docker compose up --build
 ```
